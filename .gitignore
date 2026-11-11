@@ -1,0 +1,25 @@
+# 原书副本与来源信息（版权材料，不入库）
+book/
+references/sources/
+books/*/SOURCE.txt
+books/*/MANIFEST.json
+
+# 常见电子书原书副本
+*.epub
+*.pdf
+*.mobi
+*.azw3
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 系统与编辑器垃圾文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
